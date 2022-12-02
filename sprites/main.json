@@ -1,6 +1,6 @@
-[{	
-	1: "https://biplobsd.github.io/voidlingz-data/sprites/1.gif",
-	2: "https://biplobsd.github.io/voidlingz-data/sprites/2.gif",
-	3: "https://biplobsd.github.io/voidlingz-data/sprites/3.gif",
-	4: "https://biplobsd.github.io/voidlingz-data/sprites/4.gif",
-}]
+{
+   "1":"https://biplobsd.github.io/voidlingz-data/sprites/1.gif",
+   "2":"https://biplobsd.github.io/voidlingz-data/sprites/2.gif",
+   "3":"https://biplobsd.github.io/voidlingz-data/sprites/3.gif",
+   "4":"https://biplobsd.github.io/voidlingz-data/sprites/4.gif"
+}
